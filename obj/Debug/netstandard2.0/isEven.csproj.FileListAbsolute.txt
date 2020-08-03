@@ -1,0 +1,9 @@
+/home/diego/Documents/Projetos/isEven/bin/Debug/netstandard2.0/isEven.deps.json
+/home/diego/Documents/Projetos/isEven/bin/Debug/netstandard2.0/isEven.dll
+/home/diego/Documents/Projetos/isEven/bin/Debug/netstandard2.0/isEven.pdb
+/home/diego/Documents/Projetos/isEven/obj/Debug/netstandard2.0/isEven.csprojAssemblyReference.cache
+/home/diego/Documents/Projetos/isEven/obj/Debug/netstandard2.0/isEven.csproj.CoreCompileInputs.cache
+/home/diego/Documents/Projetos/isEven/obj/Debug/netstandard2.0/isEven.AssemblyInfoInputs.cache
+/home/diego/Documents/Projetos/isEven/obj/Debug/netstandard2.0/isEven.AssemblyInfo.cs
+/home/diego/Documents/Projetos/isEven/obj/Debug/netstandard2.0/isEven.dll
+/home/diego/Documents/Projetos/isEven/obj/Debug/netstandard2.0/isEven.pdb

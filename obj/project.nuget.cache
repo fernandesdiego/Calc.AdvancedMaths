@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "618eLWeLpe60LhoV0evFe5Jz1cwV0jWip93/DwwWVM/Ze6FDhHsuCBRQsScIMVyvADRI1P71xj1bgCB7+s2FFg==",
+  "success": true,
+  "projectFilePath": "/home/diego/Documents/Projetos/isEven/Maths.csproj",
+  "expectedPackageFiles": [
+    "/home/diego/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/diego/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
